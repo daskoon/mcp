@@ -162,3 +162,16 @@ wrangler.toml.bak
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+*.mbox
+*.zip
+*.apk
+*.mp4
+*.blend
+*.msi
+*.vdi
+*.iso
+*.so
+*.dll
+*.bin
+*.dill
